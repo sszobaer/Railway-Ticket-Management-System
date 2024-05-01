@@ -1,0 +1,12 @@
+Tista Express/KA
+Tista Express/KHA
+Tista Express/GHA
+Parabat Express/KA
+Parabat Express/PHA
+Parabat Express/THA
+Subarna Express/A
+Subarna Express/B
+Subarna Express/C
+MPH Express/X
+MPH Express/XX
+MPH Express/XXX
