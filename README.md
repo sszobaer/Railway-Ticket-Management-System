@@ -24,6 +24,20 @@ This Java application provides a seamless e-ticket management experience for met
 - [S. S. Zobaer Ahmed](https://www.github.com/sszobaer)
 - [Raiyan Rafiq Sarker](https://github.com/RaiyanRafiqSarker)
 - [Mahdi Rahman Mahit]()
+---
+## Responsibilities
+
+### Project Team Members and Their Roles
+
+| Name                   | Role                                  | Responsibilities                                                                                                                                   |
+|------------------------|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Md. Sazzad Khan** | Project Lead, Backend Developer      | - Led the project and coordinated tasks among team members. <br> - Developed the core backend functionality for user authentication, ticket booking, and transaction management. <br> - Ensured integration and functionality of database components. |
+| **S. S. Zobaer Ahmed**    | UI/UX Designer, Frontend Developer   | - Designed user interfaces for a seamless user experience. <br> - Developed the frontend components for user registration, login, and ticket purchase. <br> - Collaborated with backend developers to ensure smooth data flow between frontend and backend. |
+| **Raiyan Rafiq Sarker**| Database Administrator, Tester       | - Designed and managed the database schema for user, ticket, and transaction data. <br> - Ensured data integrity and security. <br> - Conducted functionality testing and validation for all major components. |
+| **Mahdi Rahman Mahit** | Documentation Specialist, Support    | - Created detailed documentation and user guides for the application. <br> - Assisted in developing and organizing project resources. <br> - Provided additional support for testing and bug resolution. |
+
+Each team member contributed uniquely to the project, ensuring a successful and comprehensive e-ticket management system. The collaboration and distinct responsibilities enhanced the project's quality and efficiency, meeting the requirements and providing an effective solution for metro rail and railway e-ticketing in Bangladesh.
+
 
 ## Prerequisites
 
