@@ -1,0 +1,282 @@
+Dhaka/Gazipur/Tista Express/Shovon/2023-05-22 07:15:00/60
+Dhaka/Gazipur/Tista Express/Snigdha/2023-05-22 07:15:00/100
+Dhaka/Gazipur/Tista Express/Berth/2023-05-22 07:15:00/200
+Dhaka/Gazipur/Tista Express/Shovon/2023-05-22 11:15:00/60
+Dhaka/Gazipur/Tista Express/Snigdha/2023-05-22 11:15:00/100
+Dhaka/Gazipur/Tista Express/Berth/2023-05-22 11:15:00/200
+Gazipur/Dhaka/Tista Express/Shovon/2023-05-22 07:15:00/60
+Gazipur/Dhaka/Tista Express/Snigdha/2023-05-22 07:15:00/100
+Gazipur/Dhaka/Tista Express/Berth/2023-05-22 07:15:00/200
+Gazipur/Dhaka/Tista Express/Shovon/2023-05-22 11:15:00/60
+Gazipur/Dhaka/Tista Express/Snigdha/2023-05-22 11:15:00/100
+Gazipur/Dhaka/Tista Express/Berth/2023-05-22 11:15:00/200
+Dhaka/Gazipur/Subarna Express/Shovon/2023-05-22 08:15:00/60
+Dhaka/Gazipur/Subarna Express/Snigdha/2023-05-22 08:15:00/100
+Dhaka/Gazipur/Subarna Express/Berth/2023-05-22 08:15:00/200
+Dhaka/Gazipur/Subarna Express/Shovon/2023-05-22 12:15:00/60
+Dhaka/Gazipur/Subarna Express/Snigdha/2023-05-22 12:15:00/100
+Dhaka/Gazipur/Subarna Express/Berth/2023-05-22 12:15:00/200
+Gazipur/Dhaka/Subarna Express/Shovon/2023-05-22 08:15:00/60
+Gazipur/Dhaka/Subarna Express/Snigdha/2023-05-22 08:15:00/100
+Gazipur/Dhaka/Subarna Express/Berth/2023-05-22 08:15:00/200
+Gazipur/Dhaka/Subarna Express/Shovon/2023-05-22 12:15:00/60
+Gazipur/Dhaka/Subarna Express/Snigdha/2023-05-22 12:15:00/100
+Gazipur/Dhaka/Subarna Express/Berth/2023-05-22 12:15:00/200
+Rajshahi/Gazipur/Parabat Express/Shovon/2023-05-22 09:15:00/300
+Rajshahi/Gazipur/Parabat Express/Snigdha/2023-05-22 09:15:00/600
+Rajshahi/Gazipur/Parabat Express/Berth/2023-05-22 09:15:00/900
+Rajshahi/Gazipur/Parabat Express/Shovon/2023-05-22 16:15:00/300
+Rajshahi/Gazipur/Parabat Express/Snigdha/2023-05-22 16:15:00/600
+Rajshahi/Gazipur/Parabat Express/Berth/2023-05-22 16:15:00/900
+Gazipur/Rajshahi/Parabat Express/Shovon/2023-05-22 09:15:00/300
+Gazipur/Rajshahi/Parabat Express/Snigdha/2023-05-22 09:15:00/600
+Gazipur/Rajshahi/Parabat Express/Berth/2023-05-22 09:15:00/900
+Gazipur/Rajshahi/Parabat Express/Shovon/2023-05-22 11:15:00/300
+Gazipur/Rajshahi/Parabat Express/Snigdha/2023-05-22 11:15:00/600
+Gazipur/Rajshahi/Parabat Express/Berth/2023-05-22 11:15:00/900
+Rajshahi/Gazipur/MPH Express/Shovon/2023-05-22 08:15:00/300
+Rajshahi/Gazipur/MPH Express/Snigdha/2023-05-22 08:15:00/600
+Rajshahi/Gazipur/MPH Express/Berth/2023-05-22 08:15:00/900
+Rajshahi/Gazipur/MPH Express/Shovon/2023-05-22 12:15:00/300
+Rajshahi/Gazipur/MPH Express/Snigdha/2023-05-22 12:15:00/600
+Rajshahi/Gazipur/MPH Express/Berth/2023-05-22 12:15:00/900
+Gazipur/Rajshahi/MPH Express/Shovon/2023-05-22 08:15:00/300
+Gazipur/Rajshahi/MPH Express/Snigdha/2023-05-22 08:15:00/600
+Gazipur/Rajshahi/MPH Express/Berth/2023-05-22 08:15:00/900
+Gazipur/Rajshahi/MPH Express/Shovon/2023-05-22 12:15:00/300
+Gazipur/Rajshahi/MPH Express/Snigdha/2023-05-22 12:15:00/600
+Gazipur/Rajshahi/MPH Express/Berth/2023-05-22 12:15:00/900
+Barisal/Rajshahi/MPH Express/Shovon/2023:05:30 08:00:00/1100
+Rajshahi/Barisal/MPH Express/Shovon/2023:05:30 08:00:00/1100
+Rajshahi/Barisal/MPH Express/Shovon/2023:05:30 08:30:00/1100
+Rajshahi/Barisal/MPH Express/Shovon/2023:05:30 09:30:00/1100
+Barisal/Rajshahi/Tista Express/Shovon/2023:05:30 09:30:00/1100
+Rajshahi/Barisal/Tista Express/Shovon/2023:05:30 09:30:00/1100
+Rajshahi/Barisal/Tista Express/Shovon/2023:05:30 09:00:00/1100
+Barisal/Dhaka/MPH Express/Shovon/2023:05:30 09:00:00/1200
+Dhaka/Barisal/MPH Express/Shovon/2023:05:30 09:00:00/1200
+Dhaka/Barisal/MPH Express/Shovon/2023:05:30 09:30:00/1200
+Barisal/Dhaka/Subarna Express/Shovon/2023:05:30 09:30:00/1200
+Dhaka/Barisal/Subarna Express/Shovon/2023:05:30 09:30:00/1200
+Barisal/Dhaka/Parabat Express/Shovon/2023:05:30 09:30:00/1200
+Dhaka/Barisal/Parabat Express/Shovon/2023:05:30 09:30:00/1200
+Barisal/Dhaka/Tista Express/Shovon/2023:05:30 09:30:00/1200
+Dhaka/Barisal/Tista Express/Shovon/2023:05:30 09:30:00/1200
+Dhaka/Barisal/Tista Express/Shovon/2023:05:30 09:00:00/1200
+Barisal/Rajshahi/MPH Express/Snigdha/2023:05:30 08:00:00/1500
+Rajshahi/Barisal/MPH Express/Snigdha/2023:05:30 08:00:00/1500
+Rajshahi/Barisal/MPH Express/Snigdha/2023:05:30 08:30:00/1500
+Rajshahi/Barisal/MPH Express/Snigdha/2023:05:30 09:30:00/1500
+Barisal/Rajshahi/Tista Express/Snigdha/2023:05:30 09:30:00/1500
+Rajshahi/Barisal/Tista Express/Snigdha/2023:05:30 09:30:00/1500
+Rajshahi/Barisal/Tista Express/Snigdha/2023:05:30 09:00:00/1500
+Barisal/Dhaka/MPH Express/Snigdha/2023:05:30 09:00:00/1600
+Dhaka/Barisal/MPH Express/Snigdha/2023:05:30 09:00:00/1600
+Dhaka/Barisal/MPH Express/Snigdha/2023:05:30 09:30:00/1600
+Barisal/Dhaka/Subarna Express/Snigdha/2023:05:30 09:30:00/1600
+Dhaka/Barisal/Subarna Express/Snigdha/2023:05:30 09:30:00/1600
+Barisal/Dhaka/Parabat Express/Snigdha/2023:05:30 09:30:00/1600
+Dhaka/Barisal/Parabat Express/Snigdha/2023:05:30 09:30:00/1600
+Barisal/Dhaka/Tista Express/Snigdha/2023:05:30 09:30:00/1600
+Dhaka/Barisal/Tista Express/Snigdha/2023:05:30 09:30:00/1600
+Dhaka/Barisal/Tista Express/Snigdha/2023:05:30 09:00:00/1600
+Barisal/Rajshahi/MPH Express/Berth/2023:05:30 08:00:00/1900
+Rajshahi/Barisal/MPH Express/Berth/2023:05:30 08:00:00/1900
+Rajshahi/Barisal/MPH Express/Berth/2023:05:30 08:30:00/1900
+Rajshahi/Barisal/MPH Express/Berth/2023:05:30 09:30:00/1900
+Barisal/Rajshahi/Tista Express/Berth/2023:05:30 09:30:00/1900
+Rajshahi/Barisal/Tista Express/Berth/2023:05:30 09:30:00/1900
+Rajshahi/Barisal/Tista Express/Berth/2023:05:30 09:00:00/1900
+Barisal/Dhaka/MPH Express/Berth/2023:05:30 09:00:00/2000
+Dhaka/Barisal/MPH Express/Berth/2023:05:30 09:00:00/2000
+Dhaka/Barisal/MPH Express/Berth/2023:05:30 09:30:00/2000
+Barisal/Dhaka/Subarna Express/Berth/2023:05:30 09:30:00/2000
+Dhaka/Barisal/Subarna Express/Berth/2023:05:30 09:30:00/2000
+Barisal/Dhaka/Parabat Express/Berth/2023:05:30 09:30:00/2000
+Dhaka/Barisal/Parabat Express/Berth/2023:05:30 09:30:00/2000
+Barisal/Dhaka/Tista Express/Berth/2023:05:30 09:30:00/2000
+Dhaka/Barisal/Tista Express/Berth/2023:05:30 09:30:00/2000
+Dhaka/Barisal/Tista Express/Berth/2023:05:30 09:00:00/2000
+Cox's Bazar/Barisal/Subarna Express/Shovon/2023:05:30 08:30:00/1600
+Cox's Bazar/Barisal/Subarna Express/Shovon/2023:05:30 09:30:00/1600
+Barisal/Cox's Bazar/Subarna Express/Shovon/2023:05:30 09:30:00/1600
+Barisal/Cox's Bazar/Subarna Express/Shovon/2023:05:30 09:00:00/1600
+Cox's Bazar/Barisal/Tista Express/Shovon/2023:05:30 09:00:00/1600
+Cox's Bazar/Barisal/Tista Express/Shovon/2023:05:30 09:30:00/1600
+Barisal/Cox's Bazar/Tista Express/Shovon/2023:05:30 09:00:00/1600
+Barisal/Cox's Bazar/Tista Express/Shovon/2023:05:30 09:30:00/1600
+Cox's Bazar/Rajshahi/MPH Express/Shovon/2023:05:30 10:30:00/1100
+Rajshahi/Cox's Bazar/MPH Express/Shovon/2023:05:30 10:30:00/1100
+Rajshahi/Cox's Bazar/MPH Express/Shovon/2023:05:30 10:00:00/1100
+Cox's Bazar/Rajshahi/Subarna Express/Shovon/2023:05:30 10:00:00/1100
+Cox's Bazar/Rajshahi/Subarna Express/Shovon/2023:05:30 10:30:00/1100
+Cox's Bazar/Rajshahi/Subarna Express/Shovon/2023:05:30 10:40:00/1100
+Rajshahi/Cox's Bazar/Subarna Express/Shovon/2023:05:30 10:40:00/1100
+Rajshahi/Cox's Bazar/Subarna Express/Shovon/2023:05:30 11:40:00/1100
+Cox's Bazar/Rajshahi/Tista Express/Shovon/2023:05:30 11:40:00/1100
+Cox's Bazar/Rajshahi/Tista Express/Shovon/2023:05:30 12:40:00/1100
+Rajshahi/Cox's Bazar/Tista Express/Shovon/2023:05:30 12:40:00/1100
+Cox's Bazar/Gazipur/MPH Express/Shovon/2023:05:30 12:40:00/800
+Cox's Bazar/Gazipur/MPH Express/Shovon/2023:05:30 01:40:00/800
+Cox's Bazar/Gazipur/MPH Express/Shovon/2023:05:30 02:40:00/800
+Gazipur/Cox's Bazar/MPH Express/Shovon/2023:05:30 02:40:00/800
+Gazipur/Cox's Bazar/MPH Express/Shovon/2023:05:30 03:40:00/800
+Gazipur/Cox's Bazar/MPH Express/Shovon/2023:05:30 04:40:00/800
+Cox's Bazar/Gazipur/Subarna Express/Shovon/2023:05:30 04:40:00/800
+Cox's Bazar/Gazipur/Subarna Express/Shovon/2023:05:30 05:40:00/800
+Gazipur/Cox's Bazar/Subarna Express/Shovon/2023:05:30 05:40:00/800
+Gazipur/Cox's Bazar/Subarna Express/Shovon/2023:05:30 06:40:00/800
+Cox's Bazar/Gazipur/Tista Express/Shovon/2023:05:30 06:40:00/800
+Cox's Bazar/Gazipur/Tista Express/Shovon/2023:05:30 07:40:00/800
+Gazipur/Cox's Bazar/Tista Express/Shovon/2023:05:30 07:40:00/800
+Gazipur/Cox's Bazar/Tista Express/Shovon/2023:05:30 07:30:00/800
+Cox's Bazar/Dhaka/MPH Express/Shovon/2023:05:30 07:30:00/700
+Cox's Bazar/Dhaka/MPH Express/Shovon/2023:05:30 07:45:00/700
+Cox's Bazar/Dhaka/MPH Express/Shovon/2023:05:30 07:50:00/700
+Dhaka/Cox's Bazar/MPH Express/Shovon/2023:05:30 08:50:00/700
+Dhaka/Cox's Bazar/MPH Express/Shovon/2023:05:30 08:30:00/700
+Cox's Bazar/Dhaka/Subarna Express/Shovon/2023:05:30 09:30:00/700
+Cox's Bazar/Dhaka/Subarna Express/Shovon/2023:05:30 09:15:00/700
+Dhaka/Cox's Bazar/Subarna Express/Shovon/2023:05:30 09:15:00/700
+Dhaka/Cox's Bazar/Subarna Express/Shovon/2023:05:30 09:30:00/700
+Cox's Bazar/Dhaka/Parabat Express/Shovon/2023:05:30 09:30:00/700
+Cox's Bazar/Dhaka/Parabat Express/Shovon/2023:05:30 09:50:00/700
+Dhaka/Cox's Bazar/Parabat Express/Shovon/2023:05:30 09:50:00/700
+Dhaka/Cox's Bazar/Parabat Express/Shovon/2023:05:30 08:50:00/700
+Cox's Bazar/Dhaka/Tista Express/Shovon/2023:05:30 08:50:00/700
+Cox's Bazar/Dhaka/Tista Express/Shovon/2023:05:30 09:50:00/700
+Cox's Bazar/Dhaka/Tista Express/Shovon/2023:05:30 12:50:00/700
+Dhaka/Cox's Bazar/Tista Express/Shovon/2023:05:30 12:50:00/700
+Dhaka/Cox's Bazar/Tista Express/Shovon/2023:05:30 12:40:00/700
+Cox's Bazar/Barisal/Subarna Express/Snigdha/2023:05:30 08:30:00/1900
+Cox's Bazar/Barisal/Subarna Express/Snigdha/2023:05:30 09:30:00/1900
+Barisal/Cox's Bazar/Subarna Express/Snigdha/2023:05:30 09:30:00/1900
+Barisal/Cox's Bazar/Subarna Express/Snigdha/2023:05:30 09:00:00/1900
+Cox's Bazar/Barisal/Tista Express/Snigdha/2023:05:30 09:00:00/1900
+Cox's Bazar/Barisal/Tista Express/Snigdha/2023:05:30 09:30:00/1900
+Barisal/Cox's Bazar/Tista Express/Snigdha/2023:05:30 09:00:00/1900
+Barisal/Cox's Bazar/Tista Express/Snigdha/2023:05:30 09:30:00/1900
+Cox's Bazar/Rajshahi/MPH Express/Snigdha/2023:05:30 10:30:00/1500
+Rajshahi/Cox's Bazar/MPH Express/Snigdha/2023:05:30 10:30:00/1500
+Rajshahi/Cox's Bazar/MPH Express/Snigdha/2023:05:30 10:00:00/1500
+Cox's Bazar/Rajshahi/Subarna Express/Snigdha/2023:05:30 10:00:00/1500
+Cox's Bazar/Rajshahi/Subarna Express/Snigdha/2023:05:30 10:30:00/1500
+Cox's Bazar/Rajshahi/Subarna Express/Snigdha/2023:05:30 10:40:00/1500
+Rajshahi/Cox's Bazar/Subarna Express/Snigdha/2023:05:30 10:40:00/1500
+Rajshahi/Cox's Bazar/Subarna Express/Snigdha/2023:05:30 11:40:00/1500
+Cox's Bazar/Rajshahi/Tista Express/Snigdha/2023:05:30 11:40:00/1500
+Cox's Bazar/Rajshahi/Tista Express/Snigdha/2023:05:30 12:40:00/1500
+Rajshahi/Cox's Bazar/Tista Express/Snigdha/2023:05:30 12:40:00/1500
+Cox's Bazar/Gazipur/MPH Express/Snigdha/2023:05:30 12:40:00/1100
+Cox's Bazar/Gazipur/MPH Express/Snigdha/2023:05:30 01:40:00/1100
+Cox's Bazar/Gazipur/MPH Express/Snigdha/2023:05:30 02:40:00/1100
+Gazipur/Cox's Bazar/MPH Express/Snigdha/2023:05:30 02:40:00/1100
+Gazipur/Cox's Bazar/MPH Express/Snigdha/2023:05:30 03:40:00/1100
+Gazipur/Cox's Bazar/MPH Express/Snigdha/2023:05:30 04:40:00/1100
+Cox's Bazar/Gazipur/Subarna Express/Snigdha/2023:05:30 04:40:00/1100
+Cox's Bazar/Gazipur/Subarna Express/Snigdha/2023:05:30 05:40:00/1100
+Gazipur/Cox's Bazar/Subarna Express/Snigdha/2023:05:30 05:40:00/1100
+Gazipur/Cox's Bazar/Subarna Express/Snigdha/2023:05:30 06:40:00/1100
+Cox's Bazar/Gazipur/Tista Express/Snigdha/2023:05:30 06:40:00/1100
+Cox's Bazar/Gazipur/Tista Express/Snigdha/2023:05:30 07:40:00/1100
+Gazipur/Cox's Bazar/Tista Express/Snigdha/2023:05:30 07:40:00/1100
+Gazipur/Cox's Bazar/Tista Express/Snigdha/2023:05:30 07:30:00/1100
+Cox's Bazar/Dhaka/MPH Express/Snigdha/2023:05:30 07:30:00/1000
+Cox's Bazar/Dhaka/MPH Express/Snigdha/2023:05:30 07:45:00/1000
+Cox's Bazar/Dhaka/MPH Express/Snigdha/2023:05:30 07:50:00/1000
+Dhaka/Cox's Bazar/MPH Express/Snigdha/2023:05:30 08:50:00/1000
+Dhaka/Cox's Bazar/MPH Express/Snigdha/2023:05:30 08:30:00/1000
+Cox's Bazar/Dhaka/Subarna Express/Snigdha/2023:05:30 09:30:00/1000
+Cox's Bazar/Dhaka/Subarna Express/Snigdha/2023:05:30 09:15:00/1000
+Dhaka/Cox's Bazar/Subarna Express/Snigdha/2023:05:30 09:15:00/1000
+Dhaka/Cox's Bazar/Subarna Express/Snigdha/2023:05:30 09:30:00/1000
+Cox's Bazar/Dhaka/Parabat Express/Snigdha/2023:05:30 09:30:00/1000
+Cox's Bazar/Dhaka/Parabat Express/Snigdha/2023:05:30 09:50:00/1000
+Dhaka/Cox's Bazar/Parabat Express/Snigdha/2023:05:30 09:50:00/1000
+Dhaka/Cox's Bazar/Parabat Express/Snigdha/2023:05:30 08:50:00/1000
+Cox's Bazar/Dhaka/Tista Express/Snigdha/2023:05:30 08:50:00/1000
+Cox's Bazar/Dhaka/Tista Express/Snigdha/2023:05:30 09:50:00/1000
+Cox's Bazar/Dhaka/Tista Express/Snigdha/2023:05:30 12:50:00/1000
+Dhaka/Cox's Bazar/Tista Express/Snigdha/2023:05:30 12:50:00/1000
+Dhaka/Cox's Bazar/Tista Express/Snigdha/2023:05:30 12:40:00/1000
+Cox's Bazar/Barisal/Subarna Express/Berth/2023:05:30 08:30:00/2200
+Cox's Bazar/Barisal/Subarna Express/Berth/2023:05:30 09:30:00/2200
+Barisal/Cox's Bazar/Subarna Express/Berth/2023:05:30 09:30:00/2200
+Barisal/Cox's Bazar/Subarna Express/Berth/2023:05:30 09:00:00/2200
+Cox's Bazar/Barisal/Tista Express/Berth/2023:05:30 09:00:00/2200
+Cox's Bazar/Barisal/Tista Express/Berth/2023:05:30 09:30:00/2200
+Barisal/Cox's Bazar/Tista Express/Berth/2023:05:30 09:00:00/2200
+Barisal/Cox's Bazar/Tista Express/Berth/2023:05:30 09:30:00/2200
+Cox's Bazar/Rajshahi/MPH Express/Berth/2023:05:30 10:30:00/1800
+Rajshahi/Cox's Bazar/MPH Express/Berth/2023:05:30 10:30:00/1800
+Rajshahi/Cox's Bazar/MPH Express/Berth/2023:05:30 10:00:00/1800
+Cox's Bazar/Rajshahi/Subarna Express/Berth/2023:05:30 10:00:00/1800
+Cox's Bazar/Rajshahi/Subarna Express/Berth/2023:05:30 10:30:00/1800
+Cox's Bazar/Rajshahi/Subarna Express/Berth/2023:05:30 10:40:00/1800
+Rajshahi/Cox's Bazar/Subarna Express/Berth/2023:05:30 10:40:00/1800
+Rajshahi/Cox's Bazar/Subarna Express/Berth/2023:05:30 11:40:00/1800
+Cox's Bazar/Rajshahi/Tista Express/Berth/2023:05:30 11:40:00/1800
+Cox's Bazar/Rajshahi/Tista Express/Berth/2023:05:30 12:40:00/1800
+Rajshahi/Cox's Bazar/Tista Express/Berth/2023:05:30 12:40:00/1800
+Cox's Bazar/Gazipur/MPH Express/Berth/2023:05:30 12:40:00/1300
+Cox's Bazar/Gazipur/MPH Express/Berth/2023:05:30 01:40:00/1300
+Cox's Bazar/Gazipur/MPH Express/Berth/2023:05:30 02:40:00/1300
+Gazipur/Cox's Bazar/MPH Express/Berth/2023:05:30 02:40:00/1300
+Gazipur/Cox's Bazar/MPH Express/Berth/2023:05:30 03:40:00/1300
+Gazipur/Cox's Bazar/MPH Express/Berth/2023:05:30 04:40:00/1300
+Cox's Bazar/Gazipur/Subarna Express/Berth/2023:05:30 04:40:00/1300
+Cox's Bazar/Gazipur/Subarna Express/Berth/2023:05:30 05:40:00/1300
+Gazipur/Cox's Bazar/Subarna Express/Berth/2023:05:30 05:40:00/1300
+Gazipur/Cox's Bazar/Subarna Express/Berth/2023:05:30 06:40:00/1300
+Cox's Bazar/Gazipur/Tista Express/Berth/2023:05:30 06:40:00/1300
+Cox's Bazar/Gazipur/Tista Express/Berth/2023:05:30 07:40:00/1300
+Gazipur/Cox's Bazar/Tista Express/Berth/2023:05:30 07:40:00/1300
+Gazipur/Cox's Bazar/Tista Express/Berth/2023:05:30 07:30:00/1300
+Cox's Bazar/Dhaka/MPH Express/Berth/2023:05:30 07:30:00/1400
+Cox's Bazar/Dhaka/MPH Express/Berth/2023:05:30 07:45:00/1400
+Cox's Bazar/Dhaka/MPH Express/Berth/2023:05:30 07:50:00/1400
+Dhaka/Cox's Bazar/MPH Express/Berth/2023:05:30 08:50:00/1400
+Dhaka/Cox's Bazar/MPH Express/Berth/2023:05:30 08:30:00/1400
+Cox's Bazar/Dhaka/Subarna Express/Berth/2023:05:30 09:30:00/1400
+Cox's Bazar/Dhaka/Subarna Express/Berth/2023:05:30 09:15:00/1400
+Dhaka/Cox's Bazar/Subarna Express/Berth/2023:05:30 09:15:00/1400
+Dhaka/Cox's Bazar/Subarna Express/Berth/2023:05:30 09:30:00/1400
+Cox's Bazar/Dhaka/Parabat Express/Berth/2023:05:30 09:30:00/1400
+Cox's Bazar/Dhaka/Parabat Express/Berth/2023:05:30 09:50:00/1400
+Dhaka/Cox's Bazar/Parabat Express/Berth/2023:05:30 09:50:00/1400
+Dhaka/Cox's Bazar/Parabat Express/Berth/2023:05:30 08:50:00/1400
+Cox's Bazar/Dhaka/Tista Express/Berth/2023:05:30 08:50:00/1400
+Cox's Bazar/Dhaka/Tista Express/Berth/2023:05:30 09:50:00/1400
+Cox's Bazar/Dhaka/Tista Express/Berth/2023:05:30 12:50:00/1400
+Dhaka/Cox's Bazar/Tista Express/Berth/2023:05:30 12:50:00/1400
+Dhaka/Cox's Bazar/Tista Express/Berth/2023:05:30 12:40:00/1400
+Sylhet/Barisal/MPH Express/Shovon/2023:06:10 08:15:00/700
+Barisal/Sylhet/MPH Express/Shovon/2023:06:10 08:15:00/700
+Sylhet/Barisal/Tista Express/Shovon/2023:06:10 08:15:00/700
+Barisal/Sylhet/Tista Express/Shovon/2023:06:10 08:15:00/700
+Sylhet/Dhaka/MPH Express/Shovon/2023:06:10 08:15:00/500
+Dhaka/Sylhet/MPH Express/Shovon/2023:06:10 08:15:00/500
+Sylhet/Dhaka/Parabat Express/Shovon/2023:06:10 08:15:00/500
+Dhaka/Sylhet/Parabat Express/Shovon/2023:06:10 08:15:00/500
+Sylhet/Dhaka/Tista Express/Shovon/2023:06:10 08:15:00/500
+Dhaka/Sylhet/Tista Express/Shovon/2023:06:10 08:15:00/500
+Sylhet/Barisal/MPH Express/Snigdha/2023:06:10 08:15:00/900
+Barisal/Sylhet/MPH Express/Snigdha/2023:06:10 08:15:00/900
+Sylhet/Barisal/Tista Express/Snigdha/2023:06:10 08:15:00/900
+Barisal/Sylhet/Tista Express/Snigdha/2023:06:10 08:15:00/900
+Sylhet/Dhaka/MPH Express/Snigdha/2023:06:10 08:15:00/800
+Dhaka/Sylhet/MPH Express/Snigdha/2023:06:10 08:15:00/800
+Sylhet/Dhaka/Parabat Express/Snigdha/2023:06:10 08:15:00/800
+Dhaka/Sylhet/Parabat Express/Snigdha/2023:06:10 08:15:00/800
+Sylhet/Dhaka/Tista Express/Snigdha/2023:06:10 08:15:00/800
+Dhaka/Sylhet/Tista Express/Snigdha/2023:06:10 08:15:00/800
+Sylhet/Barisal/MPH Express/Berth/2023:06:10 08:15:00/1100
+Barisal/Sylhet/MPH Express/Berth/2023:06:10 08:15:00/1100
+Sylhet/Barisal/Tista Express/Berth/2023:06:10 08:15:00/1100
+Barisal/Sylhet/Tista Express/Berth/2023:06:10 08:15:00/1100
+Sylhet/Dhaka/MPH Express/Berth/2023:06:10 08:15:00/1000
+Dhaka/Sylhet/MPH Express/Berth/2023:06:10 08:15:00/1000
+Sylhet/Dhaka/Parabat Express/Berth/2023:06:10 08:15:00/1000
+Dhaka/Sylhet/Parabat Express/Berth/2023:06:10 08:15:00/1000
+Sylhet/Dhaka/Tista Express/Berth/2023:06:10 08:15:00/1000
+Dhaka/Sylhet/Tista Express/Berth/2023:06:10 08:15:00/1000
