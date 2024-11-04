@@ -1,6 +1,0 @@
-Station-Dhaka
-Station-Gazipur
-Station-Rajshahi
-Station-Barisal
-Station-Cox's Bazar
-Station-Sylhet
