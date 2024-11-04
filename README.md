@@ -24,8 +24,8 @@ Before starting, ensure you have the following installed:
 Obtain your own copy of the project with:
     
 ```bash
-git clone https://github.com/sszobaer/PharmacyAppliactionManagementSystem.git
-cd PharmacyApplicationManagementSystem
+git clone https://github.com/sszobaer/Railway-Ticket-Management-System.git
+cd Railway-Ticket-Management-System
 ```
 
 ### Environment Setup
