@@ -63,7 +63,7 @@ To set up your Java environment:
 
 ## Feedback
 
-If you have any feedback or suggestions for this project, please feel free to reach out or submit an issue on the [GitHub repository(https://github.com/sszobaer/PharmacyApplicationManagementSystem/issues).
+If you have any feedback or suggestions for this project, please feel free to reach out or submit an issue on the [GitHub repository(https://github.com/sszobaer/Railway-Ticket-Management-System/issues).
 
 ## License
 
