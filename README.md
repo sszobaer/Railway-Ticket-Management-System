@@ -3,6 +3,21 @@
 This Java application provides a seamless e-ticket management experience for metro rail and railway users in Bangladesh. It allows users to manage their accounts, purchase tickets, and view travel history, all within one platform.
 
 ---
+## Table of Contents
+- [Authors](#authors)
+- [Prerequisites](#prerequisites)
+- [Get Started](#get-started)
+  - [Clone the Repository](#clone-the-repository)
+  - [Environment Setup](#environment-setup)
+- [Architecture/Technology Sections](#architecturetechnology-sections)
+- [Features](#features)
+- [Technology Used](#technology-used)
+- [Feedback](#feedback)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
+
+---
 ## Authors
 
 - [S. S. Zobaer Ahmed](https://www.github.com/sszobaer)
@@ -48,7 +63,42 @@ To set up your Java environment:
    - You can use any IDE, but **IntelliJ IDEA** or **Eclipse** are recommended for Java development.
    - [IntelliJ IDEA Download](https://www.jetbrains.com/idea/download/)
    - [Eclipse Download](https://www.eclipse.org/downloads/)
+
+### Architecture/Technology Sections
   
+<h4>Home Page</h4>  
+
+![Screenshot 2024-11-04 182937](https://github.com/user-attachments/assets/d22a39dc-787c-444c-9244-48b04964d48d)
+
+<h4>Sign Up page</h4>
+
+![Screenshot 2024-11-04 182823](https://github.com/user-attachments/assets/71ace0dc-fa5b-4feb-a515-24a8d4164be8)
+
+<h4>Customer Dahsboard</h4>
+
+![Screenshot 2024-11-04 183003](https://github.com/user-attachments/assets/573321a8-1937-4e8c-9786-c26c0865b873)
+
+<h4>Inter City Ticket Booking</h4>
+
+![Screenshot 2024-11-04 183003](https://github.com/user-attachments/assets/55d9fd16-b3c3-4195-bf6d-2dc369e77b7c)
+
+<h4>Inter City Ticket Booking Confirmation</h4>
+
+![Screenshot 2024-11-04 183117](https://github.com/user-attachments/assets/074e3a56-0daa-4a5e-b836-cce04de97d02)
+
+<h4>Metro Rail Ticket Booking </h4>
+
+![Screenshot 2024-11-04 183208](https://github.com/user-attachments/assets/799bf4ef-7a50-41db-8a7e-e370c95be71a)
+
+<h4>Metro Rail Ticket Booking Confirmation</h4>
+
+![Screenshot 2024-11-04 183218](https://github.com/user-attachments/assets/f9e220c4-d0c1-4724-a93a-aedfc2c7f21f)
+
+<h4>Check History and Log out </h4>
+
+![Screenshot 2024-11-04 183129](https://github.com/user-attachments/assets/ea9ea827-1ff0-4733-9b96-f528d370cfff)
+
+
 ## Features
 - **User Registration & Login**: New users can sign up, while returning users can log in to access their accounts.
 - **Ticket Purchase**: Users can buy tickets for metro rail or railway journeys, selecting from available destinations.
