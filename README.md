@@ -20,8 +20,8 @@ This Java application provides a seamless e-ticket management experience for met
 ---
 ## Authors
 
-- [S. S. Zobaer Ahmed](https://www.github.com/sszobaer)
 - [Md. Sazzad Khan](https://www.linkedin.com/in/md-sazzad-khan-78083a257/)
+- [S. S. Zobaer Ahmed](https://www.github.com/sszobaer)
 - [Raiyan Rafiq Sarker](https://github.com/RaiyanRafiqSarker)
 - [Mahdi Rahman Mahit]()
 
