@@ -5,6 +5,7 @@ This Java application provides a seamless e-ticket management experience for met
 ---
 ## Table of Contents
 - [Authors](#authors)
+- [Responsibilities](#Responsibilities)
 - [Prerequisites](#prerequisites)
 - [Get Started](#get-started)
   - [Clone the Repository](#clone-the-repository)
