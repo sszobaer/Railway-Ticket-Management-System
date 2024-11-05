@@ -132,7 +132,7 @@ If you have any feedback or suggestions for this project, please feel free to re
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/sszobaer/Railway-Ticket-Management-System/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 
