@@ -1,4 +1,4 @@
-# Pharmacy Application Management System
+# Railway Ticket Management System
 
 This Java application provides a seamless e-ticket management experience for metro rail and railway users in Bangladesh. It allows users to manage their accounts, purchase tickets, and view travel history, all within one platform.
 
